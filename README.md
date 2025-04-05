@@ -1,7 +1,3 @@
-Based on your [Sales Department Project](https://github.com/27abhishek27/Sales-Department-Project), here's a tailored `README.md` for your repository:
-
----
-
 # Sales Department Project
 
 ## 📌 Overview
